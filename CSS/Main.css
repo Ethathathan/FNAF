@@ -7,10 +7,23 @@ body {
 
 }
 h1 {
-    text-align : center;
-    font-family:'Anton',sans-serif;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
     font-weight: 400;
     font-size: 80px;
     color: #ff0000;
+    position:absolute;
+    z-index:2;
+    top: 100px;
 
+}
+.Fond_ecran{
+
+    display: inline-block;
+    margin : 0 auto;
+
+}
+.outer{
+    text-align: center;
+    width : 100%;
 }
