@@ -1,16 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
-
 body {
 
     background-color: rgb(76, 69, 69)
-
 }
 header {
 
     margin: 0;
     font-family: 'Anton', sans-serif;
-
 }
 .hero-image-Haut {
 
@@ -21,7 +18,6 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-
 }
 h1 {
 
@@ -32,10 +28,8 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     color: #ff0000;
-
 }
 span.Image-Choix {
-
 
     display: inline;
     width: auto;
@@ -48,11 +42,10 @@ span.Image-Choix {
 }
 .Bord-IMG-1-3 {
 
-    margin-right: 4em;
-
+    margin-right: 2em;
 }
 .Bord-IMG-2-4 {
 
-    margin-left: 4em;
-
+    margin-left: 2em;
 }
+.figcaption-Gauche
