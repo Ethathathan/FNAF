@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e578cc-024f-497a-a989-c8890b2c7c9d" name="Default Changelist" comment="">
+    <list default="true" id="08e578cc-024f-497a-a989-c8890b2c7c9d" name="Default Changelist" comment="Début du lien&#10;En-tête de l'accueil terminer&#10;Placement des images en cours">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Main.css" afterDir="false" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612516882831</updated>
       <workItem from="1612516884056" duration="6574000" />
-      <workItem from="1613113769307" duration="7777000" />
+      <workItem from="1613113769307" duration="8511000" />
     </task>
     <task id="LOCAL-00001" summary="Début du lien">
       <created>1612517129722</created>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613120385606</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Début du lien&#10;En-tête de l'accueil terminer&#10;Placement des images en cours">
+      <created>1613122139815</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1613122139815</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
