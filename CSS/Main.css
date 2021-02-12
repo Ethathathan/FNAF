@@ -12,18 +12,22 @@ h1 {
     font-weight: 400;
     font-size: 80px;
     color: #ff0000;
-    position:absolute;
+    position: absolute;
     z-index:2;
     top: 100px;
 
 }
-.Fond_ecran{
+.Fond_Ecran{
 
     display: inline-block;
     margin : 0 auto;
+    text-align: center;
+    height: 371px;
+    width: 100%;
 
 }
 .outer{
     text-align: center;
     width : 100%;
+
 }
