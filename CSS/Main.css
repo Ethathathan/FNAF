@@ -6,33 +6,31 @@ body {
     background-color: rgb(76, 69, 69)
 
 }
+header {
+
+    margin: 0;
+    font-family: 'Anton', sans-serif;
+
+}
+.hero-image {
+
+    background-image: url("../image/OfficeClean (2).png");
+    background-color: rgb(76, 69, 69);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
 h1 {
 
+    font-size: 100px;
     text-align: center;
-    font-family: 'Anton', sans-serif;
-    font-weight: 400;
-    font-size: 80px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: #ff0000;
-    position: absolute;
-    z-index:2;
-    top: 100px;
-
-}
-.Fond_Ecran{
-
-    display: inline-block;
-    margin : 0 auto;
-
-}
-.outer{
-
-    text-align: center;
-    width: 0;
-
-}
-.IMG_Haut{
-
-    position: absolute;
-
 
 }

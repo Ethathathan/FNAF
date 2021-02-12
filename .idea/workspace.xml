@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612516882831</updated>
       <workItem from="1612516884056" duration="6574000" />
-      <workItem from="1613113769307" duration="2110000" />
+      <workItem from="1613113769307" duration="3643000" />
     </task>
     <task id="LOCAL-00001" summary="Début du lien">
       <created>1612517129722</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613115098121</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Début du lien">
+      <created>1613115993626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613115993626</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
