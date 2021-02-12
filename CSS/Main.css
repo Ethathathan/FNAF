@@ -41,3 +41,10 @@ span.Image-Choix {
     height: auto;
     background-color: rgb(76, 69, 69);
 }
+span.Image-Choix2 {
+
+    display: block;
+    width: auto;
+    height: auto;
+    background-color: rgb(76, 69, 69);
+}
