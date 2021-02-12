@@ -38,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020-sfa-101-exe-laure-dinateur-Ethathathan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612516882831</updated>
       <workItem from="1612516884056" duration="6574000" />
-      <workItem from="1613113769307" duration="3643000" />
+      <workItem from="1613113769307" duration="4614000" />
     </task>
     <task id="LOCAL-00001" summary="Début du lien">
       <created>1612517129722</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613115993626</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Début du lien&#10;En-tête de l'accueil terminer">
+      <created>1613117654501</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613117654501</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +133,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Début du lien" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début du lien" />
+    <MESSAGE value="Début du lien&#10;En-tête de l'accueil terminer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début du lien&#10;En-tête de l'accueil terminer" />
   </component>
 </project>
