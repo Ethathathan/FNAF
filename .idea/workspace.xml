@@ -42,6 +42,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ummeeth\WebstormProjects\FNAF" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612516882831</updated>
       <workItem from="1612516884056" duration="6574000" />
-      <workItem from="1613113769307" duration="4614000" />
+      <workItem from="1613113769307" duration="5919000" />
     </task>
     <task id="LOCAL-00001" summary="Début du lien">
       <created>1612517129722</created>
@@ -123,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613117654501</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Début du lien&#10;En-tête de l'accueil terminer">
+      <created>1613118565238</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613118565238</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

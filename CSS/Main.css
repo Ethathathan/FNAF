@@ -34,3 +34,10 @@ h1 {
     color: #ff0000;
 
 }
+span.Image-Choix {
+
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color: rgb(76, 69, 69);
+}
